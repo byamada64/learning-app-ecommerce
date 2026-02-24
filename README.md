@@ -1,3 +1,15 @@
+## Personal Learning Notes
+
+This repository was forked as part of hands-on Linux and application deployment practice.
+
+Topics practiced:
+- Linux service management (systemd, firewalld)
+- Database setup (MariaDB)
+- App deployment on CentOS
+- Reading and executing real-world README instructions
+
+Source: KodeKloud Linux & DevOps labs
+
 # Introduction
 
 This is a sample e-commerce application built for learning purposes.
